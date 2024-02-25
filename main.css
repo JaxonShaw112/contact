@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: lightslategrey;
+}
+.box {
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+    border: 2px black solid;
+    border-radius: 25px;
+    font-family: "bebas neue", serif;
+    transform: translate(0, 60%)
+}
+input {
+    margin: 10px;
+}
